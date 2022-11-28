@@ -1,4 +1,7 @@
 
+Hello, my name is Gabriel, but many call me Bené, I'm a programming student and I'm looking to evolve in what I do.
+
+##
 
 <div align="left">
   <a href="https://github.com/Benerlk">
