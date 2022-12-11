@@ -17,7 +17,12 @@
   <img align="center" alt="Bene-LUA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
 </div>
 
-  ##
+<details>
+  <summary>💬 Contact</summary>
+   </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
+  <string>Bené#0021/string>
+
+##
 
   ![Snake animation](https://github.com/Benerlk/Benerlk/blob/output/github-contribution-grid-snake.svg)
   
