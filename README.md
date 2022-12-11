@@ -1,6 +1,12 @@
 
 ### Hello, my name is Gabriel, but many call me Bené, I'm a programming student and I'm looking to evolve in what I do. 👾
 
+<details>
+  <summary>💬 Contact</summary>
+   </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
+  <string>Bené#0021</string>
+</details>
+
 ##
 
 <div align="left">
@@ -16,11 +22,6 @@
   <img align="center" alt="Bene-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bene-LUA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
 </div>
-
-<details>
-  <summary>💬 Contact</summary>
-   </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <string>Bené#0021</string>
 
 ##
 
