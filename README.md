@@ -5,7 +5,7 @@
 
 <details align="center">
   <summary>💬 Contact</summary>
-   </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
+   </br>    <img align="center" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
   <string>Bené#3292</string>
 </details>
 
