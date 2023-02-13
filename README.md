@@ -1,7 +1,7 @@
 
 <div>
-  <p align="center">### Hello 👋!</p>
-  <p align="center">### My name is Gabriel, but many call me Bené, I'm a programming student and I'm looking to evolve in what I do. 👾</p>
+  <p align="center">Hello 👋!</p>
+  <p align="center">My name is Gabriel, but many call me Bené, I'm a programming student and I'm looking to evolve in what I do. 👾</p>
 
 <details>
   <summary>💬 Contact</summary>
