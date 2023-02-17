@@ -3,11 +3,11 @@
   <p align="center">Hello 👋!</p>
   <p align="center">My name is Gabriel, but many call me Bené, I'm a programming student and I'm looking to evolve in what I do. 👾</p>
 
-<details align="center">
+<br><details align="center">
   <summary>💬 Contact</summary>
    </br>    <img align="center" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
   <string>Bené#3292</string>
-</details>
+</details><br>
 
 ##
 
